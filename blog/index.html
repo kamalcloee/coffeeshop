@@ -1,0 +1,235 @@
+<!doctype html>
+<html>
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,maximum-scale=1.0,user-scalable=no">
+    <link rel="icon" href="../wp-content/themes/kaffeine/resources/graphics/kaffeine_favicon.png">
+    <title>Kaffeine</title>
+    <meta name="description" content="Kaffeine is an cafe and espresso bar.">
+    <link rel="stylesheet" type="text/css" href="../../cloud.typography.com/682880/6575772/css/fonts.css" />
+    <link rel="stylesheet" type="text/css" href="../wp-content/themes/kaffeine/style.css" />
+
+  </head>
+
+
+  <body class=" ">
+
+                          <div id="page-splash">
+                <div class="container" id="page-splash-content">
+          <div style="font-size:1em;line-height:0.95em">
+            <p>Read All<br />
+About It</p>
+          </div>
+        </div>
+      </div>
+
+
+    <header>
+      <a href="../index.html" id="logo" class="pull-left"></a>
+      <div class="social-icons">
+        <a href="https://www.facebook.com/pages/Kaffeine/119498221434146" target="_blank" class="icon icon-facebook"></a>
+        <a href="https://twitter.com/kaffeinelondon" target="_blank" class="icon icon-twitter"></a>
+        <a href="https://www.instagram.com/kaffeinelondon/" target="_blank" class="icon icon-instagram"></a>
+        <a href="https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d1552112-Reviews-Kaffeine-London_England.html" target="_blank" class="icon icon-tripadvisor"></a>
+        <a href="https://www.yelp.co.uk/biz/kaffeine-london" target="_blank" class="icon icon-yelp"></a>
+        <a href="#" target="_blank" class="icon icon-email open-contact-form"></a>
+      </div>
+      <div id="menu-toggle" class="pull-right">
+        <div class="menu-toggle-line"></div>
+        <div class="menu-toggle-line"></div>
+        <div class="menu-toggle-line"></div>
+      </div>
+    </header>
+    <nav>
+      <div id="nav-items">
+        <a href="location/66-great-titchfield-street/index.html">2nd floor, Phoenix mall</a><br />
+        <a href="location/15-eastcastle-street/index.html">1st floor, VR mall</a><br />
+        <a href="">Login</a><br />
+        <a href="">Cattering</a><br />
+        <a href="blog/index.html">Blog</a><br />
+        <a href="reviews/index.html">Reviews</a>
+      </div>
+    </nav>
+
+<div id="heading-spacer"></div>
+
+
+
+
+
+  <div class="blog-posts pinned-blog-posts">
+    <div class="container">
+              <div class="row blog-post">
+          <div class="col-sm-6">
+            <a href="../blog1/1.html">
+                                            <img src="../blog1/holiday-guide-830x550.jpg" image class="img-responsive" />
+                          </a>
+          </div>
+          <div class="col-sm-6">
+            <div class="blog-post-date">
+              by Sprudge            </div>
+            <h2 class="blog-post-title">
+              <a href="../blog1/1.html">The essential Sprudge 2018 holiday guide</a>
+            </h2>
+            <div class="blog-post-excerpt">
+                              Handmade Mug and Dripper by Sam Lee                          </div>
+          </div>
+        </div>
+          </div>
+  </div>
+
+
+
+  <div class="blog-posts">
+    <div class="container">
+              <div class="row blog-post">
+          <div class="col-sm-6">
+            <a href="../blog1/2.html">
+                                            <img src="../blog1/TraverseCity_planetary_exterior1_fionnpooler-830x550.jpg" alt="Kaffeine Legend - Josephine 'Josie' Snee" class="img-responsive" />
+                          </a>
+          </div>
+          <div class="col-sm-6">
+            <div class="blog-post-date">
+              by Fion Pooler            </div>
+            <h2 class="blog-post-title">
+              <a href="../blog1/2.html">The Coffee Lover's Guide to traverse City,Micighan</a>
+            </h2>
+            <div class="blog-post-excerpt">
+                                            There’s a colloquialism that the Great Lakes region is America’s Third Coast, and it’s easy to see why.
+                          </div>
+          </div>
+        </div>
+              <div class="row blog-post">
+          <div class="col-sm-6">
+            <a href="../blog1/3.html">
+                                            <img src="../blog1/romecityscape-830x550.jpg" alt="Kaffeine Legend - Sam 'Boni' Boniface - Lead Barista" class="img-responsive" />
+                          </a>
+          </div>
+          <div class="col-sm-6">
+            <div class="blog-post-date">
+              by Natalie kennedy            </div>
+            <h2 class="blog-post-title">
+              <a href="../blog1/3.html">Coffe in Rome:Sprudge Guide</a>
+            </h2>
+            <div class="blog-post-excerpt">
+                                            Rome is a city that runs on an excess of caffeine.
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+    <footer class="container">
+      <div class="row">
+                          <div class="col-xs-6 col-sm-3 location">
+            Phoenix Mall<br />
+Chennai           <div class="location-contact">
+              091 3730 5878<br />
+              <a href="https://www.google.co.uk/maps/place/Kaffeine/@51.516825,-0.137218,15z/data=!4m5!3m4!1s0x0:0xddbac575370307d3!8m2!3d51.516825!4d-0.137218" target="_blank" class="icon icon-map">Find us</a>
+            </div>
+          </div>
+                  <div class="col-xs-6 col-sm-3 location">
+            VR Mall<br />
+Chennai            <div class="location-contact">
+              091 7580 6755<br />
+              <a href="https://www.google.co.uk/maps/place/Kaffeine/@51.5184507,-0.1404082,15z/data=!4m2!3m1!1s0x0:0x35e5392fd336333?sa=X&amp;ved=0ahUKEwiEx82JhNvSAhVkKsAKHc9kCIgQ_BIIczAK" target="_blank" class="icon icon-map">Find us</a>
+            </div>
+          </div>
+                <div class="col-xs-6 col-sm-3">
+          Contact us<br />
+          <a href="#" target="_blank" class="icon icon-email open-contact-form">Email</a><br />
+          <a href="https://www.facebook.com/pages/Kaffeine" target="_blank" class="icon icon-facebook">Facebook</a><br />
+          <a href="https://twitter.com/kaffeine" target="_blank" class="icon icon-twitter">Twitter</a><br />
+          <a href="https://www.instagram.com/kaffeine/" target="_blank" class="icon icon-instagram">Instagram</a><br />
+          <a href="https://www.tripadvisor.co.uk/Restaurant_Review-Kaffeine.html" target="_blank" class="icon icon-tripadvisor">TripAdvisor</a><br />
+          <a href="https://www.yelp.co.uk/biz/kaffeine-chennai" target="_blank" class="icon icon-yelp">Yelp</a>
+        </div>
+        <div class="col-xs-6 col-sm-3 text-right">
+          <a href="legal/index.html">Terms &amp; Conditions</a><br />
+          <a href="legal/index.html">Privacy Policy</a> and <a href="legal/index.html"> Cookies</a>
+          <br /><br />
+          <a href="http://boldandbold.com/" target="_blank">Design by Micheal</a><br />
+          <a href="https://www.status200.co.uk/" target="_blank">Developed in ATOM</a><br />
+          &copy; 2018 Kaffeine
+        </div>
+      </div>
+    </footer>
+
+    <div class="section section-text" id="contact-form">
+      <div class="section-text-head">
+        <h2>Contact Us</h2>
+      </div>
+      <div class="container" id="contact-form-body">
+        <div class="row">
+          <div class="col-sm-8 col-sm-offset-2">
+            <form>
+              <input type="hidden" name="contactType" value="" />
+              <div class="row">
+                <div class="col-xs-6 col-sm-4">
+                  <input type="text" name="firstName" placeholder="First Name" class="form-control" />
+                </div>
+                <div class="col-xs-6 col-sm-4">
+                  <input type="text" name="lastName" placeholder="Surname" class="form-control" />
+                </div>
+                <div class="col-sm-4">
+                  <input type="text" name="email" placeholder="Email" class="form-control" />
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-12">
+                  <textarea name="message" placeholder="Message" class="form-control"></textarea>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-4 col-sm-offset-4">
+                  <button type="submit" class="btn btn-kaffeine">Submit</button>
+                  <div class="contact-result"></div>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="section-text-footer hidden-xs">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-3"></div>
+                                      <div class="col-xs-6 col-sm-3 location">
+                Phoenix Mall<br />
+Chennai                <div class="location-contact">
+                  091 3730 5878<br />
+                  <a href="https://www.google.co.uk/maps/place/Kaffeine/@51.516825,-0.137218,15z/data=!4m5!3m4!1s0x0:0xddbac575370307d3!8m2!3d51.516825!4d-0.137218" target="_blank" class="icon icon-map">Find us</a>
+                </div>
+              </div>
+                          <div class="col-xs-6 col-sm-3 location">
+              VR Mall<br />
+Chennai               <div class="location-contact">
+                  091 7580 6755<br />
+                  <a href="https://www.google.co.uk/maps/place/Kaffeine/@51.5184507,-0.1404082,15z/data=!4m2!3m1!1s0x0:0x35e5392fd336333?sa=X&amp;ved=0ahUKEwiEx82JhNvSAhVkKsAKHc9kCIgQ_BIIczAK" target="_blank" class="icon icon-map">Find us</a>
+                </div>
+              </div>
+                      </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCWAosHm_JpW7zISJSnHCZtFjkwdXGamsI"></script>
+    <script type="text/javascript" src="../wp-content/themes/kaffeine/script.js"></script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-101001587-1"></script>
+    <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments);}
+     gtag('js', new Date());
+
+     gtag('config', 'UA-101001587-1');
+    </script>
+  </body>
+
+<!-- Mirrored from kaffeine.co.uk/blog/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 24 Nov 2018 08:26:59 GMT -->
+</html>
