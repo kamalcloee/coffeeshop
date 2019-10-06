@@ -1,2 +1,2 @@
 ### Coffee-shop
-A promotional and faboulous website for those who love coffee :)
+A promotional and fabulous website for those who love coffee :)
